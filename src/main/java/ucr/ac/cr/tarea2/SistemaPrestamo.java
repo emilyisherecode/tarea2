@@ -19,7 +19,7 @@ public class SistemaPrestamo {
         equipos[3] = new Equipo("EQ04", "Tableta gráfica", "Diseño", 500);
         // Posición 4 queda null (no se usa, pero el arreglo es de tamaño 5)
 
-        // diasAtraso se inicializa en 0 automáticamente
+        // diasAtraso se inicializa en 0 
     }
 
     public String consultarCatalogo() {
